@@ -1,0 +1,12 @@
+/* Will be compiled down to a single stylesheet with your sass files */
+#container{
+	height:400px;
+}
+.item{
+	margin:8px;
+	padding:4px;
+	border:1px solid silver;
+	width:100px; 
+	height:100px;
+	background:silver;
+}
